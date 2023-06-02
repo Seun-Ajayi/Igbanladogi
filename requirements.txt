@@ -1,5 +1,5 @@
 numpy
-pandas==1.5.3
+pandas
 scikit-learn==1.0.2
 pytest==7.2.1
 requests==2.28.2
